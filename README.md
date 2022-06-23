@@ -4,7 +4,7 @@
 
 # Binnacle_Weekly 
 
-<p>Este archivo es el resumen de las Weekly del viernes 17 de Junio, donde describe que temas se hablaron y que temas quedaron pendientes por hablar para el siguiente Weekly<p>
+<p>This file is the summary of the Weekly on Friday, June 17, where it describes what topics were discussed and what topics were pending to be discussed for the next Weekly<p>
 
 ## Spoken Topics - Internal Reports
 
